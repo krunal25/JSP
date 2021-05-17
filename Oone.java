@@ -7,6 +7,7 @@ class Oone
 		Three th = new Three();
 
 		t.twooo();
+		
 		th.the();	
 	}
 }
